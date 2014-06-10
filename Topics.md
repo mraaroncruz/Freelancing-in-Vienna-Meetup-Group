@@ -1,0 +1,42 @@
+### Topics we wanna talk about
+- experiences
+- tech/website
+- wordpress
+- __projects__
+- IT
+- HTML/JS/mysql/php
+- __finding cofounders__
+- __networking__
+- vienna startups
+- Content management
+- corporate blogs
+- texting
+- legal
+- financial
+- commercial
+- day to day
+- __handling clients__
+- __contracts__
+- __productivity__
+- __contracts__
+- __pricing__
+- finding customers
+- UX
+- Social Media
+- __Different billing systems - hourly/daily/project__
+- Hiring
+- __Getting the right customers__
+- __Selling yourself__
+- Customer Satisfaction
+- Imposter syndrome
+- Finding co-workers
+- billing the right amount
+- programming
+- web apps
+- __Getting started, what do you need, how to get your first jobs, what type of contracts should you aim for, what risks should i be aware of.__
+- __Getting over psychological road block to get started__
+- __finding subcontractors__
+- __work-life balance__
+- not falling for fairy tales
+- Time tracking
+- project management
